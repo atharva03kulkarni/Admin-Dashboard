@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height:30px;
+    box-sizing: border-box;
+}
+
+.navigation {
+    background-color: #214761;
+    margin-bottom: 1rem;
+}
+
+.home {
+    color: white;
+}
+
+.heading {
+    color: white;
+    margin-left: 1rem;
+    font-weight: bold;  
+}
+
+.addButton {
+    position: absolute;
+    right: 1rem;
+    margin: 1rem;
+    font-weight: bold;
+    background-color: #2690d6;
+    color: white;
+}
+
+.addButton:hover {
+    background-color: #146fac;
+    color: white;
+}
+
+.filter {
+    margin: 1rem;
+}
+
+
+
+
